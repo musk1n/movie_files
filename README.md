@@ -1,6 +1,6 @@
 # Movie Application
 
-Welcome to the Movie Application project repository! This mobile application provides users with real-time information about movies, categorized into "Now Playing," "Trending," and "Top Rated" sections. Users can explore the latest releases, trending films, and critically acclaimed movies, along with crisp descriptions for each selection.
+This mobile application provides users with real-time information about movies, categorized into "Now Playing," "Trending," and "Top Rated" sections. Users can explore the latest releases, trending films, and critically acclaimed movies, along with crisp descriptions for each selection.
 
 ## Features
 
